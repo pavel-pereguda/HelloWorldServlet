@@ -1,0 +1,13 @@
+# Here is the list of files that are ignored by Git
+
+### Maven template
+target/
+
+
+### JetBrains template
+# User-specific stuff:
+.idea/
+
+# File-based project format:
+*.iws
+*.iml
